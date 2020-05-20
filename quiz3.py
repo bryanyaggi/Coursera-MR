@@ -3,6 +3,10 @@
 import numpy as np
 import modern_robotics as mr
 
+'''
+Course 1, Week 3 Quiz
+'''
+
 def p9():
     print('P9')
     omega = np.array([1, 2, 0])
