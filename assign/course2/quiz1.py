@@ -14,8 +14,6 @@ class Robot:
         self.Slist = np.zeros((6, numJoints))
         self.Blist = np.zeros((6, numJoints))
 
-
-
 '''
 Calculate M matrix for given URRPR robot.
 '''
